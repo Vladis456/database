@@ -1,0 +1,30 @@
+[
+    {
+        "trainName": "Мегаполис 020У",
+        "departureCity": "Москва",
+        "departureDate": "Sat Oct 28 2023 00:20:00 GMT+0300",
+        "departureStation": "Ленинградский вокзал, Москва",
+        "arrivalCity": "Санкт-Петербург",
+        "arrivalDate": "Sat Oct 28 2023 09:05:00 GMT+0300",
+        "arrivalStarion": "Московский вокзал, Санкт-Петербург",
+        "trainAdvantages": [
+            {"airСonditioner": "true"},
+            {"wiFi": "true"},
+            {"nutrition": "true"},
+            {"diningCar": "true"},
+            {"media": "true"}
+        ],
+        "trainRoute": [
+            {
+                "cityName": "Тверь",
+                "arrivalDate": "Sat Oct 28 2023 04:44:00 GMT+0300",
+                "departureDate": "Sat Oct 28 2023 04:45:00 GMT+0300"
+            },
+            {
+                "cityName": "Чудово-1 (Московское)",
+                "arrivalDate": "Sat Oct 28 2023 06:57:00 GMT+0300",
+                "departureDate": "Sat Oct 28 2023 06:58:00 GMT+0300"
+            }
+        ]
+    }
+]
